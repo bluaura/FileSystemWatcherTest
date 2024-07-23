@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEC77-3FE1-41CA-8C41-48F51E062A2A}|FileSystemWatcher\\FileSystemWatcher.csproj|c:\\workspaces\\c_sharp\\filesystemwatchertest\\filesystemwatcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEC77-3FE1-41CA-8C41-48F51E062A2A}|FileSystemWatcher\\FileSystemWatcher.csproj|solutionrelative:filesystemwatcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25B1539-50C4-4887-808C-9B3B196EF9AD}|ProdConsumer\\ProdConsumer.csproj|c:\\workspaces\\c_sharp\\filesystemwatchertest\\prodconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25B1539-50C4-4887-808C-9B3B196EF9AD}|ProdConsumer\\ProdConsumer.csproj|solutionrelative:prodconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\FileSystemWatcher\\Program.cs",
+              "RelativeDocumentMoniker": "FileSystemWatcher\\Program.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\FileSystemWatcher\\Program.cs",
+              "RelativeToolTip": "FileSystemWatcher\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:55:54.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\ProdConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "ProdConsumer\\Program.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\ProdConsumer\\Program.cs",
+              "RelativeToolTip": "ProdConsumer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:40:47.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
