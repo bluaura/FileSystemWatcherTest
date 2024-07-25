@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F809CF1D-800A-49FC-8947-ECBCD2054B23}|RegistryTest\\RegistryTest.csproj|c:\\workspaces\\c_sharp\\filesystemwatchertest\\registrytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809CF1D-800A-49FC-8947-ECBCD2054B23}|RegistryTest\\RegistryTest.csproj|solutionrelative:registrytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E33AEC77-3FE1-41CA-8C41-48F51E062A2A}|FileSystemWatcher\\FileSystemWatcher.csproj|c:\\workspaces\\c_sharp\\filesystemwatchertest\\filesystemwatcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E33AEC77-3FE1-41CA-8C41-48F51E062A2A}|FileSystemWatcher\\FileSystemWatcher.csproj|solutionrelative:filesystemwatcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,6 +32,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\RegistryTest\\Program.cs",
+              "RelativeDocumentMoniker": "RegistryTest\\Program.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\RegistryTest\\Program.cs",
+              "RelativeToolTip": "RegistryTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:09:47.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\FileSystemWatcher\\Program.cs",
               "RelativeDocumentMoniker": "FileSystemWatcher\\Program.cs",
               "ToolTip": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\FileSystemWatcher\\Program.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\ProdConsumer\\Program.cs",
               "RelativeDocumentMoniker": "ProdConsumer\\Program.cs",
@@ -47,8 +64,7 @@
               "RelativeToolTip": "ProdConsumer\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T13:40:47.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T13:40:47.565Z"
             }
           ]
         }

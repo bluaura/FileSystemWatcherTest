@@ -1,0 +1,15 @@
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\bin\Debug\net6.0\RegistryTest.exe
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\bin\Debug\net6.0\RegistryTest.deps.json
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\bin\Debug\net6.0\RegistryTest.runtimeconfig.json
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\bin\Debug\net6.0\RegistryTest.dll
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\bin\Debug\net6.0\RegistryTest.pdb
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\obj\Debug\net6.0\RegistryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\obj\Debug\net6.0\RegistryTest.AssemblyInfoInputs.cache
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\obj\Debug\net6.0\RegistryTest.AssemblyInfo.cs
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\obj\Debug\net6.0\RegistryTest.csproj.CoreCompileInputs.cache
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\obj\Debug\net6.0\RegistryTest.sourcelink.json
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\obj\Debug\net6.0\RegistryTest.dll
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\obj\Debug\net6.0\refint\RegistryTest.dll
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\obj\Debug\net6.0\RegistryTest.pdb
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\obj\Debug\net6.0\RegistryTest.genruntimeconfig.cache
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\RegistryTest\obj\Debug\net6.0\ref\RegistryTest.dll

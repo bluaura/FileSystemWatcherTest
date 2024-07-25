@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemWatcher", "FileSystemWatcher\FileSystemWatcher.csproj", "{E33AEC77-3FE1-41CA-8C41-48F51E062A2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSystemWatcher", "FileSystemWatcher\FileSystemWatcher.csproj", "{E33AEC77-3FE1-41CA-8C41-48F51E062A2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdConsumer", "ProdConsumer\ProdConsumer.csproj", "{E25B1539-50C4-4887-808C-9B3B196EF9AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProdConsumer", "ProdConsumer\ProdConsumer.csproj", "{E25B1539-50C4-4887-808C-9B3B196EF9AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistryTest", "RegistryTest\RegistryTest.csproj", "{F809CF1D-800A-49FC-8947-ECBCD2054B23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E25B1539-50C4-4887-808C-9B3B196EF9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E25B1539-50C4-4887-808C-9B3B196EF9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E25B1539-50C4-4887-808C-9B3B196EF9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F809CF1D-800A-49FC-8947-ECBCD2054B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F809CF1D-800A-49FC-8947-ECBCD2054B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F809CF1D-800A-49FC-8947-ECBCD2054B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F809CF1D-800A-49FC-8947-ECBCD2054B23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
