@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ProdConsumer")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Log4Net")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88c167b382b12c4c87b23c36b5ba6768b91270a1")]
-[assembly: System.Reflection.AssemblyProductAttribute("ProdConsumer")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ProdConsumer")]
+[assembly: System.Reflection.AssemblyProductAttribute("Log4Net")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Log4Net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

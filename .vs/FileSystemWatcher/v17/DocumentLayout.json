@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F809CF1D-800A-49FC-8947-ECBCD2054B23}|RegistryTest\\RegistryTest.csproj|c:\\workspaces\\c_sharp\\filesystemwatchertest\\registrytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F809CF1D-800A-49FC-8947-ECBCD2054B23}|RegistryTest\\RegistryTest.csproj|solutionrelative:registrytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D9DF49D-4E87-4222-9E24-4FEEC7F6A19A}|PrintsAllFile\\PrintsAllFile.csproj|c:\\workspaces\\c_sharp\\filesystemwatchertest\\printsallfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9DF49D-4E87-4222-9E24-4FEEC7F6A19A}|PrintsAllFile\\PrintsAllFile.csproj|solutionrelative:printsallfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E33AEC77-3FE1-41CA-8C41-48F51E062A2A}|FileSystemWatcher\\FileSystemWatcher.csproj|c:\\workspaces\\c_sharp\\filesystemwatchertest\\filesystemwatcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E33AEC77-3FE1-41CA-8C41-48F51E062A2A}|FileSystemWatcher\\FileSystemWatcher.csproj|solutionrelative:filesystemwatcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809CF1D-800A-49FC-8947-ECBCD2054B23}|RegistryTest\\RegistryTest.csproj|c:\\workspaces\\c_sharp\\filesystemwatchertest\\registrytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809CF1D-800A-49FC-8947-ECBCD2054B23}|RegistryTest\\RegistryTest.csproj|solutionrelative:registrytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922F0BD-165C-4EE4-ABFC-BDD870D235FC}|Log4Net\\Log4Net.csproj|c:\\workspaces\\c_sharp\\filesystemwatchertest\\log4net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922F0BD-165C-4EE4-ABFC-BDD870D235FC}|Log4Net\\Log4Net.csproj|solutionrelative:log4net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922F0BD-165C-4EE4-ABFC-BDD870D235FC}|Log4Net\\Log4Net.csproj|c:\\workspaces\\c_sharp\\filesystemwatchertest\\log4net\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922F0BD-165C-4EE4-ABFC-BDD870D235FC}|Log4Net\\Log4Net.csproj|solutionrelative:log4net\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922F0BD-165C-4EE4-ABFC-BDD870D235FC}|Log4Net\\Log4Net.csproj|c:\\workspaces\\c_sharp\\filesystemwatchertest\\log4net\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F922F0BD-165C-4EE4-ABFC-BDD870D235FC}|Log4Net\\Log4Net.csproj|solutionrelative:log4net\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E25B1539-50C4-4887-808C-9B3B196EF9AD}|ProdConsumer\\ProdConsumer.csproj|c:\\workspaces\\c_sharp\\filesystemwatchertest\\prodconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +47,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\PrintsAllFile\\Program.cs",
+              "RelativeDocumentMoniker": "PrintsAllFile\\Program.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\PrintsAllFile\\Program.cs",
+              "RelativeToolTip": "PrintsAllFile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:51:15.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\Log4Net\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Log4Net\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\Log4Net\\AssemblyInfo.cs",
+              "RelativeToolTip": "Log4Net\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:04:01.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\Log4Net\\log4net.config",
+              "RelativeDocumentMoniker": "Log4Net\\log4net.config",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\Log4Net\\log4net.config",
+              "RelativeToolTip": "Log4Net\\log4net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-02T08:03:27.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\Log4Net\\Program.cs",
+              "RelativeDocumentMoniker": "Log4Net\\Program.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\Log4Net\\Program.cs",
+              "RelativeToolTip": "Log4Net\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:01:39.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\RegistryTest\\Program.cs",
               "RelativeDocumentMoniker": "RegistryTest\\Program.cs",
@@ -56,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\FileSystemWatcherTest\\ProdConsumer\\Program.cs",
               "RelativeDocumentMoniker": "ProdConsumer\\Program.cs",

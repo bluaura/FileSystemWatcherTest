@@ -1,0 +1,15 @@
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\bin\Debug\net6.0\PrintsAllFile.exe
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\bin\Debug\net6.0\PrintsAllFile.deps.json
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\bin\Debug\net6.0\PrintsAllFile.runtimeconfig.json
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\bin\Debug\net6.0\PrintsAllFile.dll
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\bin\Debug\net6.0\PrintsAllFile.pdb
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\obj\Debug\net6.0\PrintsAllFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\obj\Debug\net6.0\PrintsAllFile.AssemblyInfoInputs.cache
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\obj\Debug\net6.0\PrintsAllFile.AssemblyInfo.cs
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\obj\Debug\net6.0\PrintsAllFile.csproj.CoreCompileInputs.cache
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\obj\Debug\net6.0\PrintsAllFile.sourcelink.json
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\obj\Debug\net6.0\PrintsAllFile.dll
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\obj\Debug\net6.0\refint\PrintsAllFile.dll
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\obj\Debug\net6.0\PrintsAllFile.pdb
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\obj\Debug\net6.0\PrintsAllFile.genruntimeconfig.cache
+C:\Workspaces\C_Sharp\FileSystemWatcherTest\PrintsAllFile\obj\Debug\net6.0\ref\PrintsAllFile.dll
